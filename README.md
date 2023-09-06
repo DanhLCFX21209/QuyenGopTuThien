@@ -3,7 +3,7 @@ Dự án quyên góp từ thiện sẽ đưa lên thông tin những hoàn cản
 # Thiết kế giao diện
 link : https://drive.google.com/drive/folders/1w0Y6QmWTY0cwwNOOeCekeUiFLUvusoQv
 # Tổ chức dự án
-Về mặt xây dựng và tổ chức dự án, học viên sẽ phải tự thiết kế theo mô hình khuôn mẫu của MVC, tức là sẽ có các lớp package như: model, view, controller, config, ... Dưới đây là một khuôn mẫu phát triển theo hướng Spring MVC.
+Về mặt xây dựng và tổ chức dự án, học viên sẽ phải tự thiết kế theo mô hình khuôn mẫu của MVC, tức là sẽ có các lớp package như: model, view, controller, config, ... 
 
 # Các chức năng
 Dự án không phân chia theo quyền NHƯNG phân chia theo mặt chức năng hệ thống
